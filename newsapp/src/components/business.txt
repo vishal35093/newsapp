@@ -1,0 +1,9 @@
+<Router Path="/business"><News pagesize={6} country="in" category="entertainment"/></Router>
+<Router Path="/entertainment"><News pagesize={6} country="in" category="entertainment"/></Router>
+<Router Path="/general"><News pagesize={6} country="in" category="entertainment"/></Router>
+<Router Path="/health"><News pagesize={6} country="in" category="entertainment"/></Router>
+<Router Path="/science"><News pagesize={6} country="in" category="entertainment"/></Router>
+<Router Path="/sports"><News pagesize={6} country="in" category="entertainment"/></Router>
+
+
+<Router Path="/"><News pagesize={6} country="in" category="entertainment"/></Router>
